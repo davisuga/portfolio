@@ -9,10 +9,12 @@ export const metadata: Metadata = {
     default: "davisuga.com",
     template: "%s | davisuga.com",
   },
-  description: "Co-founder of unkey.dev and founder of planetfall.io",
+  description:
+    "Co-founder of gridoai.com, self taught developer, and music producer",
   openGraph: {
     title: "davisuga.com",
-    description: "Co-founder of unkey.dev and founder of planetfall.io",
+    description:
+      "Co-founder of gridoai.com, self taught developer, and music producer",
     url: "https://davisuga.com",
     siteName: "davisuga.com",
     images: [
@@ -37,7 +39,7 @@ export const metadata: Metadata = {
     },
   },
   twitter: {
-    title: "Chronark",
+    title: "Davi Suga",
     card: "summary_large_image",
   },
   icons: {
