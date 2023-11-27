@@ -6,18 +6,18 @@ import { Analytics } from "./components/analytics";
 
 export const metadata: Metadata = {
   title: {
-    default: "davisuga.dev",
-    template: "%s | davisuga.dev",
+    default: "davisuga.com",
+    template: "%s | davisuga.com",
   },
   description: "Co-founder of unkey.dev and founder of planetfall.io",
   openGraph: {
-    title: "davisuga.dev",
+    title: "davisuga.com",
     description: "Co-founder of unkey.dev and founder of planetfall.io",
-    url: "https://davisuga.dev",
-    siteName: "davisuga.dev",
+    url: "https://davisuga.com",
+    siteName: "davisuga.com",
     images: [
       {
-        url: "https://davisuga.dev/og.png",
+        url: "https://davisuga.com/og.png",
         width: 1920,
         height: 1080,
       },
